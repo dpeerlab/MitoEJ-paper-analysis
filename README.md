@@ -2,6 +2,7 @@
 Code for Figures for MitoEJ paper by Yi Fu and Max Land.
 
 The code to pre-process raw sequencing data can be found in [scripts/](scripts/)
+
 An example of you to use them can be found [here](notebooks/GlucoseGalactoseExp/GlucoseGalactoseExp_process_mito_fragments.ipynb) and [here](notebooks/8HetClonesHashtagMix/8HetClonesHashtagMix_process_mito_fragments.ipynb)
 
 We provide quick links to the figures in this repo:
