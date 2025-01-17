@@ -22,3 +22,4 @@ We provide quick links to the figures in this repo:
 - [Figure S7e](notebooks/GlucoseGalactoseExp/GlucoseGalactoseExp_analysis.ipynb)
 - [Figure S8c](notebooks/GlucoseGalactoseExp/GlucoseGalactoseExp_analysis.ipynb)
 - [Figure S8d](notebooks/GlucoseGalactoseExp/GlucoseGalactoseExp_analysis.ipynb)
+- [Figure S9a-d](notebooks/GlucoseGalactoseExp/GlucoseGalactoseExp_analysis.ipynb)
